@@ -1,3 +1,8 @@
+# Coffee Valley
+## Login credentials
+**User ID:** `admin`\
+**Password:** `admin`
+
 # HTML-D
 
 1. Bagaimana cara membuat button yang mempunyai fungsi seperti link?
